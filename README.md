@@ -1,4 +1,4 @@
-# COVID-19 Statistics (Assignment)
+# COVID-19 Statistics
 
 This project calculates and prints Korean COVID-19 new cases by region, 
 based on population data and confirmed cases as of September 21, 2021.
